@@ -1,0 +1,2 @@
+123456,2010,green,blue,yellow,toyota,corolla,20000
+vic123,2017,black,brown,green,bmw,q1,35000
